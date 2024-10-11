@@ -15,7 +15,7 @@
 
 ### Get code.
 
-<pre> </pre>
+<pre> https://github.com/bimsConnect/One-Time-Pad-QR-Code.git </pre>
 
 ### Install Required
 
